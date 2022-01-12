@@ -1,7 +1,6 @@
 - :earth_asia: I'm an Earth Observation Scientist working with Australia’s free and open satellite data at Geoscience Australia in the Digital Earth Australia program. :crocodile:
 - :stars: I combine satellite datasets to provide insights into Australian wetlands and surface water features and produce tools like the [Wetlands Insight Tool](https://cmi.ga.gov.au/data-products/dea/608/dea-wetlands-insight-tool-qld#basics) . :hammer:
-### ![](https://media.giphy.com/media/pE1bLAeThG7VJWMzs1/giphy.gif)
-
+### <img src="https://media.giphy.com/media/pE1bLAeThG7VJWMzs1/giphy.gif" width="20%" height="20%"/>
 📫 How to reach me: :wave:
 - 😄 Pronouns: she/her
 - :herb: :ocean: you can find me on twitter [@somewheresouth](https://twitter.com/somewheresouth) :frog: :herb:
