@@ -4,7 +4,7 @@
 
 📫 How to reach me: 👋
 - 😄 Pronouns: she/her
-- :herb: :ocean: you can find me on twitter [@somewheresouth](https://twitter.com/somewheresouth) :frog: :herb:
+- :herb: :ocean: you can find me on mastodon as somewheresouth on aus.social :frog: :herb:
 - :email: :mailbox: you can reach me at work by contacting [earth dot observation at ga dot gov dot au](https://www.ga.gov.au/scientific-topics/earth-obs/contact-earth-observation-client-services) :mailbox: :wave:
 - :point_right: on [linkedin](https://www.linkedin.com/in/bex-dunn/) :point_left:
 - :leaves: :fish: you can find me on [researchgate](https://www.researchgate.net/profile/Bex_Dunn) :palm_tree: :earth_asia:
