@@ -8,6 +8,10 @@
 - [DEA Profile: Meet Bex Dunn: Wetlands Explorer](https://www.dea.ga.gov.au/article/bex-dunn)
 - [Bex Dunn - Earth Observation Scientist](https://au.prosple.com/graduate-employers/geoscience-australia/day-in-the-life/bex-dunn)
 
+
+⭐My work in other areas:🌴
+- [Floods cut through channel country](https://www.dea.ga.gov.au/article/floods-cut-through-channel-country)
+
 📖 Some recent publications: 🍮
 - Dunn, B., Ai, E., Alger, M.J., Fanson, B., Fickas, K.C., Krause, C.E., Lymburner, L., Nanson, R., Papas, P., Ronan, M., Thomas, R.F., 2023. Wetlands Insight Tool: Characterising the Surface Water and Vegetation Cover Dynamics of Individual Wetlands Using Multidecadal Landsat Satellite Data. Wetlands 43, 37. https://doi.org/10.1007/s13157-023-01682-7
 - Krause, C., Dunn, B., Bishop-Taylor, R., Adams, C., Burton, C., Alger, M., Chua, S., Phillips, C., Newey, V., Kouzoubov, K., Leith, A., Ayers, D., Hicks, A., DEA Notebooks contributors 2021. Digital Earth Australia 
