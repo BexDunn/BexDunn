@@ -10,7 +10,7 @@
 - [Bex Dunn - Earth Observation Scientist](https://au.prosple.com/graduate-employers/geoscience-australia/day-in-the-life/bex-dunn)
 
 
-⭐My work in other areas:🌴
+⭐Our work in other areas:🌴
 - [Floods cut through channel country](https://www.dea.ga.gov.au/article/floods-cut-through-channel-country)
 
 📖 Some recent publications: 🍮
@@ -19,7 +19,7 @@
 notebooks and tools repository. Geoscience Australia, Canberra. https://doi.org/10.26186/145234
 - Dunn, B., Lymburner, L., Newey, V., Hicks, A. and Carey, H., 2019. Developing a Tool for Wetland Characterization Using Fractional Cover, Tasseled Cap Wetness And Water Observations From Space. IGARSS 2019 - 2019 IEEE International Geoscience and Remote Sensing Symposium, 2019, pp. 6095-6097. https://doi.org/10.1109/IGARSS.2019.8897806.
 
-🌟you can find some of my work & projects here:✨
+🌟you can find some of our work & projects here:✨
 - [Docs](https://docs.dea.ga.gov.au/) for [digital earth australia](http://www.ga.gov.au/dea) and [dea-notebooks](https://github.com/GeoscienceAustralia/dea-notebooks) 
 - [Instructions](https://wetlandinfo.des.qld.gov.au/wetlands/facts-maps/wetland-background/insight.html) on accessing and viewing the Digital Earth Australia (DEA) Wetlands Insight Tool (QLD)
 - ### ![](https://media.giphy.com/media/u49ClRzCnd5LnBBx5l/giphy.gif)
