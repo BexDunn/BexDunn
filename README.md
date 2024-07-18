@@ -1,7 +1,8 @@
 - :earth_asia: I'm an Earth Observation Scientist working with Australia’s free and open satellite data at Geoscience Australia in the Digital Earth Australia program. :crocodile:
 - :stars: I combine satellite datasets to provide insights into Australian wetlands and surface water features and produce tools like the [Wetlands Insight Tool](https://cmi.ga.gov.au/data-products/dea/608/dea-wetlands-insight-tool-qld#basics) . :hammer:
 
-⭐Articles and profiles:🌴
+⭐Articles on our work and profiles:🌴
+- [Landsat informing better wetland management in Australia and Africa](https://www.ga.gov.au/news/landsat-informing-better-wetland-management-in-australia-and-africa)
 - [NASA Landsat Article: Landsat Insights: wetland history in your hand](https://landsat.gsfc.nasa.gov/article/landsat-insights-wetland-history-in-your-hand/)
 - [NASA Landsat Profile: Bex Dunn Landsat Data User Wetland Explorer](https://landsat.gsfc.nasa.gov/article/bex-dunn-landsat-data-user-wetland-explorer/)
 - [Australian Space Agency Profile:](https://www.space.gov.au/node/308)
