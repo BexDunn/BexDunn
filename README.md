@@ -14,6 +14,7 @@
 - [Floods cut through channel country](https://www.dea.ga.gov.au/article/floods-cut-through-channel-country)
 
 📖 Some recent publications: 🍮
+- Adame, M.F., Kavehei, E., Dunn, B. et al. Improving wetland management through First Nations’ knowledge and a spatial visualisation tool. Ambio (2026). https://doi.org/10.1007/s13280-025-02326-2
 - Dunn, B., Ai, E., Alger, M.J., Fanson, B., Fickas, K.C., Krause, C.E., Lymburner, L., Nanson, R., Papas, P., Ronan, M., Thomas, R.F., 2023. Wetlands Insight Tool: Characterising the Surface Water and Vegetation Cover Dynamics of Individual Wetlands Using Multidecadal Landsat Satellite Data. Wetlands 43, 37. https://doi.org/10.1007/s13157-023-01682-7
 - Krause, C., Dunn, B., Bishop-Taylor, R., Adams, C., Burton, C., Alger, M., Chua, S., Phillips, C., Newey, V., Kouzoubov, K., Leith, A., Ayers, D., Hicks, A., DEA Notebooks contributors 2021. Digital Earth Australia 
 notebooks and tools repository. Geoscience Australia, Canberra. https://doi.org/10.26186/145234
